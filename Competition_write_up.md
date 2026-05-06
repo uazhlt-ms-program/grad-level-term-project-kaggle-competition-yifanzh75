@@ -77,6 +77,6 @@ Leaderboard score is 0.92683.
 
 
 ## Link to code repository
-Code repository:
+Code repository: https://github.com/uazhlt-ms-program/grad-level-term-project-kaggle-competition-yifanzh75.git
 
 
